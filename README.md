@@ -2,9 +2,13 @@
 
 <img src="./assets/hero.svg" width="100%" alt="BRIELDEV">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:8957e5&height=2" width="50%" alt="">
+
 <a href="https://github.com/brieeldev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=48&lines=Desenvolvimento+web+%26+bancos+de+dados;Game+dev+com+Godot;Design+e+edi%C3%A7%C3%A3o+audiovisual;Finalista+OBT+2026+%C2%B7+equipe+DevCore" alt="Desenvolvimento web e bancos de dados · Game dev com Godot · Design e edição audiovisual · Finalista OBT 2026">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1400&color=79C0FF&center=true&vCenter=true&width=760&height=64&letterSpacing=0.5px&lines=%3E+Desenvolvimento+web+%26+bancos+de+dados;%3E+Game+dev+com+Godot;%3E+Design+e+edi%C3%A7%C3%A3o+audiovisual;%3E+Transformando+ideias+em+coisas+que+funcionam;%3E+code+%C2%B7+design+%C2%B7+create" alt="Desenvolvimento web e bancos de dados · Game dev com Godot · Design e edição audiovisual · Transformando ideias em coisas que funcionam · code · design · create">
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8957e5,100:1f6feb&height=2" width="50%" alt="">
 
 <br>
 
