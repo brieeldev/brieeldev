@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="126" height="32" viewBox="0 0 126 32">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#9999FF"/><stop offset="1" stop-color="#D0B3FF"/></linearGradient></defs>
-<text x="2" y="22" fill="url(#g)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">Premiere Pro</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="42" viewBox="0 0 180 42">
+<rect x="1" y="1" width="178" height="40" rx="9" fill="#111116" stroke="#9999FF" stroke-width="1.4"/>
+<g transform="translate(8 11)"><text x="10" y="13" text-anchor="middle" fill="#9999FF" font-family="Arial,sans-serif" font-size="10" font-weight="700">Pr</text></g>
+<text x="100.0" y="26" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14.5" font-weight="600">Premiere Pro</text>
 </svg>

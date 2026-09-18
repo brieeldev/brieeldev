@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="32" viewBox="0 0 100 32">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#C084FC"/></linearGradient></defs>
-<text x="2" y="22" fill="url(#g)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">GitHub</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="42" viewBox="0 0 160 42">
+<rect x="1" y="1" width="158" height="40" rx="9" fill="#111116" stroke="#8B5CF6" stroke-width="1.4"/>
+<g transform="translate(8 11)"><path d="M10 3a7 7 0 00-2.2 13.64v-2.05c-2.9.63-3.5-1.23-3.5-1.23-.5-1.2-1.2-1.52-1.2-1.52-.98-.67.08-.66.08-.66 1.08.08 1.65 1.1 1.65 1.1.96 1.64 2.52 1.17 3.14.9.1-.7.38-1.17.68-1.44-2.32-.26-4.76-1.16-4.76-5.16 0-1.14.4-2.07 1.08-2.8-.1-.27-.47-1.34.1-2.77 0 0 .88-.28 2.87 1.07A9.8 9.8 0 0110 6c.9 0 1.8.12 2.64.36 2-1.35 2.88-1.07 2.88-1.07.57 1.43.2 2.5.1 2.77.67.73 1.08 1.66 1.08 2.8 0 4.01-2.45 4.9-4.78 5.16.4.35.74 1.03.74 2.08v3.08A7 7 0 0010 3z" fill="none" stroke="#8B5CF6" stroke-width="1.1"/></g>
+<text x="90.0" y="26" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14.5" font-weight="600">GitHub</text>
 </svg>

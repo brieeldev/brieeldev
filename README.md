@@ -1,113 +1,101 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="BRIELDEV">
+# BRIELDEV
 
-<br>
+`code` · `design` · `create`
 
 **Estudante de Técnico em Informática · Desenvolvedor · Criativo**
 
-<p>
-  <a href="https://github.com/brieeldev">
-    <img src="https://img.shields.io/badge/GitHub-0D0D12?style=flat-square&logo=github&logoColor=white">
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/brieeldev">github.com/brieeldev</a>
 
 </div>
 
 ---
 
-## SOBRE MIM
+## 01 — PERFIL
 
-Eu gosto de trabalhar na interseção entre **tecnologia e criação**.
+Sou estudante de **Técnico em Informática** na **EEEP Deputado José Maria Melo**, no Ceará.
 
-Atualmente sou estudante de **Técnico em Informática** na **EEEP Deputado José Maria Melo**, no Ceará. Minha experiência passa por desenvolvimento web, bancos de dados, criação visual e edição audiovisual.
-
-Mais do que ficar preso a uma única área, gosto de experimentar, construir e transformar ideias em coisas que realmente funcionem.
+Minha experiência passa por **desenvolvimento web, bancos de dados, criação visual e edição audiovisual**. Gosto de aprender construindo e de transformar ideias em coisas funcionais.
 
 ---
 
-## STACK
+## 02 — DEVELOPMENT
 
 ### FRONT-END
 
-<div align="left">
-<img src="./assets/skills/html.svg" height="30">&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/css.svg" height="30">
+<div>
+<img src="./assets/skills/html.svg" height="42">&nbsp;
+<img src="./assets/skills/css.svg" height="42">
 </div>
 
 ### BACK-END
 
-<div align="left">
-<img src="./assets/skills/python.svg" height="30">&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/php.svg" height="30">
+<div>
+<img src="./assets/skills/python.svg" height="42">&nbsp;
+<img src="./assets/skills/php.svg" height="42">
 </div>
 
 ### DATABASE
 
-<div align="left">
-<img src="./assets/skills/mysql.svg" height="30">&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/firebase.svg" height="30">
+<div>
+<img src="./assets/skills/mysql.svg" height="42">&nbsp;
+<img src="./assets/skills/firebase.svg" height="42">
 </div>
 
 ### WORKFLOW
 
-<div align="left">
-<img src="./assets/skills/git.svg" height="30">&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/github.svg" height="30">&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/vscode.svg" height="30">
+<div>
+<img src="./assets/skills/git.svg" height="42">&nbsp;
+<img src="./assets/skills/github.svg" height="42">&nbsp;
+<img src="./assets/skills/vscode.svg" height="42">
 </div>
 
 ### GAME DEVELOPMENT
 
-<div align="left">
-<img src="./assets/skills/godot.svg" height="30">
+<div>
+<img src="./assets/skills/godot.svg" height="42">
 </div>
 
 ---
 
-## CRIATIVO
-
-Não fico só no código.
-
-Também trabalho com **design, thumbnails e edição de vídeo**, usando ferramentas diferentes conforme a ideia e o resultado que quero alcançar.
+## 03 — DESIGN & EDIÇÃO
 
 ### DESIGN
 
-<div align="left">
-<img src="./assets/skills/photoshop.svg" height="30">&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/canva.svg" height="30">
+<div>
+<img src="./assets/skills/photoshop.svg" height="42">&nbsp;
+<img src="./assets/skills/canva.svg" height="42">
 </div>
 
-### MOTION & VIDEO
+### MOTION / VIDEO
 
-<div align="left">
-<img src="./assets/skills/after-effects.svg" height="30">&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/premiere-pro.svg" height="30">&nbsp;&nbsp;&nbsp;
-<img src="./assets/skills/vegas-pro.svg" height="30">
+<div>
+<img src="./assets/skills/after-effects.svg" height="42">&nbsp;
+<img src="./assets/skills/premiere-pro.svg" height="42">&nbsp;
+<img src="./assets/skills/vegas-pro.svg" height="42">
 </div>
 
 ---
 
-## EXPERIÊNCIAS
+## 04 — EXPERIÊNCIAS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### OBT · 2026
+**OBT · 2026**
 
-**Finalista — equipe DevCore**
-
-Participação na **Olimpíada Brasileira de Tecnologia 2026**, chegando à etapa final com a equipe **DevCore**.
+Finalista da **Olimpíada Brasileira de Tecnologia 2026** com a equipe **DevCore**.
 
 </td>
 <td width="50%" valign="top">
 
-### SIARÁ TECH · 2025
+**SIARÁ TECH · 2025**
 
-**Tecnologia & inovação**
-
-Participação no **Siará Tech 2025**, vivenciando um ambiente de tecnologia, inovação e desenvolvimento.
+Participação no **Siará Tech 2025**, em uma experiência ligada a tecnologia e inovação.
 
 </td>
 </tr>
@@ -117,11 +105,9 @@ Participação no **Siará Tech 2025**, vivenciando um ambiente de tecnologia, i
 
 <div align="center">
 
-### EM CONSTRUÇÃO, SEM PRESSA.
+`build` · `experiment` · `create`
 
-`learn` · `build` · `experiment` · `repeat`
-
-<br>
+<br><br>
 
 <sub>BRIELDEV · Ceará, Brazil</sub>
 
