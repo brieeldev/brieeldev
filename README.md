@@ -26,39 +26,27 @@
 
 <h2 align="center">SOBRE</h2>
 
-<p align="center">
-Sou estudante de <b>Técnico em Informática</b> na EEEP Deputado José Maria Melo, no Ceará,<br>
-com experiência em <b>desenvolvimento web</b> e <b>bancos de dados</b>.
-</p>
-
-<p align="center">
-Além do código, trabalho com <b>criação visual</b> e <b>edição audiovisual</b>,<br>
-o que me permite unir programação e design nos projetos que construo.
-</p>
-
-<p align="center">
-<i>Aprendo na prática: gosto de transformar ideias em coisas que funcionam.</i>
-</p>
-
-<br>
-
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" valign="top" width="25%">
-      <sub><b>FORMAÇÃO</b></sub><br><br>
-      Técnico em<br>Informática
+    <td valign="top" width="62%">
+      <h3>Código, design e criação</h3>
+      <p>Sou estudante de <b>Técnico em Informática</b> e desenvolvedor em formação, com experiência em <b>desenvolvimento web</b> e <b>bancos de dados</b>.</p>
+      <p>Também trabalho com <b>criação visual</b> e <b>edição audiovisual</b>, o que me permite unir programação e design nos projetos que construo.</p>
+      <p>Gosto de aprender construindo e de transformar ideias em coisas que funcionam.</p>
     </td>
-    <td align="center" valign="top" width="25%">
-      <sub><b>FOCO</b></sub><br><br>
-      Web e<br>bancos de dados
-    </td>
-    <td align="center" valign="top" width="25%">
-      <sub><b>TAMBÉM</b></sub><br><br>
-      Design e edição<br>audiovisual
-    </td>
-    <td align="center" valign="top" width="25%">
-      <sub><b>LOCAL</b></sub><br><br>
-      Ceará,<br>Brasil
+    <td valign="top" width="38%">
+      <sub><b>FORMAÇÃO</b></sub><br>
+      Técnico em Informática<br>
+      <sub>EEEP Deputado José Maria Melo</sub>
+      <br><br>
+      <sub><b>FOCO</b></sub><br>
+      Web e bancos de dados
+      <br><br>
+      <sub><b>TAMBÉM</b></sub><br>
+      Design e edição audiovisual
+      <br><br>
+      <sub><b>LOCAL</b></sub><br>
+      Ceará, Brasil
     </td>
   </tr>
 </table>
@@ -95,6 +83,7 @@ o que me permite unir programação e design nos projetos que construo.
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code">
+      <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
     </td>
     <td align="center" valign="top">
       <sub><b>DESIGN</b></sub><br><br>
@@ -123,44 +112,25 @@ o que me permite unir programação e design nos projetos que construo.
 
 <h2 align="center">FORMAÇÃO E EXPERIÊNCIAS</h2>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="130">
-      <img src="https://img.shields.io/badge/ATUAL-8957e5?style=for-the-badge" alt="Atual">
-    </td>
-    <td>
+    <td align="center" valign="top" width="33%">
+      <sub><b>FORMAÇÃO</b></sub><br><br>
       <b>Técnico em Informática</b><br>
-      <sub>EEEP Deputado José Maria Melo · Ceará</sub><br>
-      <sub>Formação com foco em desenvolvimento web e bancos de dados.</sub>
+      <sub>EEEP Deputado José Maria Melo<br>Ceará</sub><br><br>
+      <img src="https://img.shields.io/badge/EM_ANDAMENTO-1f6feb?style=for-the-badge" alt="Em andamento">
     </td>
-    <td align="center" width="140">
-      <img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-161b22?style=flat-square" alt="Formação">
+    <td align="center" valign="top" width="33%">
+      <sub><b>COMPETIÇÃO · 2026</b></sub><br><br>
+      <b>Olimpíada Brasileira<br>de Tecnologia</b><br>
+      <sub>Equipe DevCore</sub><br><br>
+      <img src="https://img.shields.io/badge/FINALISTA-8957e5?style=for-the-badge" alt="Finalista">
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2026-1f6feb?style=for-the-badge" alt="2026">
-    </td>
-    <td>
-      <b>Olimpíada Brasileira de Tecnologia (OBT)</b><br>
-      <sub>Equipe DevCore</sub><br>
-      <sub>Finalista da edição 2026.</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Competi%C3%A7%C3%A3o-161b22?style=flat-square" alt="Competição">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/2025-1f6feb?style=for-the-badge" alt="2025">
-    </td>
-    <td>
+    <td align="center" valign="top" width="33%">
+      <sub><b>EVENTO · 2025</b></sub><br><br>
       <b>Siará Tech</b><br>
-      <sub>Ceará</sub><br>
-      <sub>Participação na edição 2025, em uma experiência ligada a tecnologia e inovação.</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Evento-161b22?style=flat-square" alt="Evento">
+      <sub>Experiência ligada a<br>tecnologia e inovação</sub><br><br>
+      <img src="https://img.shields.io/badge/PARTICIPANTE-30363d?style=for-the-badge" alt="Participante">
     </td>
   </tr>
 </table>
