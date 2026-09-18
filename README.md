@@ -32,7 +32,7 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 ### FRONT-END
 
-<div align="left">
+<div align="center">
 
 <img src="./assets/skills/html.svg" height="28">
 &nbsp;&nbsp;
@@ -42,7 +42,7 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 ### BACK-END
 
-<div align="left">
+<div align="center">
 
 <img src="./assets/skills/python.svg" height="28">
 &nbsp;&nbsp;
@@ -52,7 +52,7 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 ### DATABASE
 
-<div align="left">
+<div align="center">
 
 <img src="./assets/skills/mysql.svg" height="28">
 &nbsp;&nbsp;
@@ -62,7 +62,7 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 ### TOOLS
 
-<div align="left">
+<div align="center">
 
 <img src="./assets/skills/git.svg" height="28">
 &nbsp;&nbsp;
@@ -74,7 +74,7 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 ### GAME DEVELOPMENT
 
-<div align="left">
+<div align="center">
 
 <img src="./assets/skills/godot.svg" height="28">
 
@@ -86,7 +86,7 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 ### DESIGN
 
-<div align="left">
+<div align="center">
 
 <img src="./assets/skills/photoshop.svg" height="28">
 &nbsp;&nbsp;
@@ -96,7 +96,7 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 ### VIDEO EDITING
 
-<div align="left">
+<div align="center">
 
 <img src="./assets/skills/after-effects.svg" height="28">
 &nbsp;&nbsp;
