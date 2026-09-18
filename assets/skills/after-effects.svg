@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="177" height="44" viewBox="0 0 177 44">
-<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#9999FF"/><stop offset="1" stop-color="#C4C4FF"/></linearGradient></defs>
-<rect x="1" y="1" width="175" height="42" rx="21" fill="#0D0D12" stroke="#292932"/>
-<circle cx="17" cy="22" r="4" fill="url(#g)"/>
-<text x="30" y="27" fill="url(#g)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="650">After Effects</text>
-</svg>
