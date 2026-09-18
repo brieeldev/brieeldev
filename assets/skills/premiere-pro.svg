@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="158" height="30" viewBox="0 0 158 30">
-<rect x="1" y="1" width="156" height="28" rx="7" fill="#111116" stroke="#9999FF" stroke-width="1.2"/>
-<text x="16" y="12" text-anchor="middle" fill="#9999FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">Pr</text>
-<text x="98.0" y="21" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Premiere Pro</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="138.0" height="30" viewBox="0 0 138.0 30">
+<rect x="1" y="1" width="136.0" height="28" rx="8" fill="#111116" stroke="#9999FF" stroke-width="1.2"/>
+<text x="17" y="15" text-anchor="middle" dominant-baseline="central" fill="#9999FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">Pr</text>
+<text x="91.0" y="15" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Premiere Pro</text>
 </svg>

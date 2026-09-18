@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="102" height="30" viewBox="0 0 102 30">
-<rect x="1" y="1" width="100" height="28" rx="7" fill="#111116" stroke="#7B61FF" stroke-width="1.2"/>
-<text x="16" y="14" text-anchor="middle" fill="#7B61FF" font-family="Arial,sans-serif" font-size="17" font-weight="700">C</text>
-<text x="70.0" y="21" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Canva</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="85.5" height="30" viewBox="0 0 85.5 30">
+<rect x="1" y="1" width="83.5" height="28" rx="8" fill="#111116" stroke="#7B61FF" stroke-width="1.2"/>
+<text x="17" y="15" text-anchor="middle" dominant-baseline="central" fill="#7B61FF" font-family="Arial,sans-serif" font-size="19" font-weight="700">C</text>
+<text x="64.8" y="15" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Canva</text>
 </svg>

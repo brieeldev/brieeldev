@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="126" height="30" viewBox="0 0 126 30">
-<rect x="1" y="1" width="124" height="28" rx="7" fill="#111116" stroke="#FFCA28" stroke-width="1.2"/>
-<g transform="translate(2.2 -1) scale(1.6)"><path d="M6 15l1-9 3 4 2-7 3 12-4 2-5-2z" fill="none" stroke="#FFCA28" stroke-width="1.5" stroke-linejoin="round"/></g>
-<text x="82.0" y="21" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Firebase</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="108.0" height="30" viewBox="0 0 108.0 30">
+<rect x="1" y="1" width="106.0" height="28" rx="8" fill="#111116" stroke="#FFCA28" stroke-width="1.2"/>
+<text x="17" y="15" text-anchor="middle" dominant-baseline="central" fill="#FFCA28" font-family="Arial,sans-serif" font-size="19" font-weight="700">F</text>
+<text x="76.0" y="15" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Firebase</text>
 </svg>
