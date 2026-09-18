@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Gabriel</h1>
 
-<!--
-**brieeldev/brieeldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Estudante de Informática • Programação • Desenvolvimento de Software</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/brieeldev">
+    <img src="https://img.shields.io/badge/GitHub-brieeldev-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante do curso Técnico em Informática na EEEP Deputado José Maria Melo.
+
+💻 Tenho interesse em programação, desenvolvimento de software e tecnologia.
+
+🚀 Finalista da Olimpíada Brasileira de Tecnologia (OBT) 2026 com a equipe **DevCore**.
+
+🛠️ Gosto de aprender através da criação de projetos e da resolução de problemas.
+
+📍 Ceará, Brasil
+
+---
+
+## 🧰 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Projetos
+
+### 🗺️ Alerta Map
+
+Projeto desenvolvido com a equipe DevCore, voltado ao reporte de problemas urbanos e ambientais.
+
+### 💻 Projetos acadêmicos
+
+Projetos desenvolvidos durante minha formação técnica em Informática, envolvendo programação, desenvolvimento web e banco de dados.
+
+---
+
+## 🏆 Conquistas
+
+🏅 **Finalista — Olimpíada Brasileira de Tecnologia 2026**
+
+👥 **Equipe DevCore**
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brieeldev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brieeldev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://github.com/brieeldev">
+    <img src="https://img.shields.io/badge/GitHub-brieeldev-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
