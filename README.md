@@ -1,10 +1,20 @@
 <div align="center">
 
-# Gabriel
+# BRIEL
 
-**Student · Developer · Creative**
+**Gabriel · Developer & Creative**
 
-[![GitHub](https://img.shields.io/badge/@brieeldev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brieeldev)
+<br>
+
+[![GitHub](https://img.shields.io/badge/brieeldev-000?style=flat-square&logo=github&logoColor=white)](https://github.com/brieeldev)
+
+</div>
+
+<br>
+
+<div align="center">
+
+> I build things, break things, and learn how to build them better.
 
 </div>
 
@@ -12,116 +22,99 @@
 
 ---
 
-## `01` — about
+### ABOUT
 
-> Estudante de Informática interessado em **desenvolvimento de software,
-> tecnologia e criação digital**.
+I'm **Gabriel**, a student of Technical Informatics at  
+**EEEP Deputado José Maria Melo — Ceará, Brazil.**
 
-Atualmente curso Técnico em Informática na **EEEP Deputado José Maria Melo**,
-onde venho desenvolvendo projetos e construindo minha experiência em programação.
+My interests are mainly around **software development, technology and
+digital creation**.
 
-Além do desenvolvimento, também trabalho com **design, edição de vídeo,
-thumbnails e criação de conteúdo digital**.
-
-```text
-📍 Ceará, Brasil
-🎓 Técnico em Informática
-💻 Desenvolvimento de Software
-🎨 Design & Conteúdo
-```
+I like turning ideas into real projects — whether it's code, a visual,
+a video or something completely new.
 
 ---
 
-## `02` — development
+### DEVELOPMENT
 
-<div align="center">
+<p align="left">
 
-### Languages & Web
+<img src="https://skillicons.dev/icons?i=python,php,html,css,mysql,firebase,git,github,vscode,godot" />
 
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+</p>
 
-### Database & Tools
+`Python` · `PHP` · `HTML` · `CSS` · `MySQL` · `Firebase` · `Git` · `GitHub`
 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+`Portugol` · `Godot`
 
-### Game Development
-
-[![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
-
-<sub>Conhecimentos básicos em desenvolvimento de jogos com Godot.</sub>
-
-</div>
+<sub>Godot — conhecimentos básicos em desenvolvimento de jogos.</sub>
 
 ---
 
-## `03` — creative
+### CREATIVE
 
-<div align="center">
+<p align="left">
 
-| Design | Video | Content |
-| :---: | :---: | :---: |
-| Photoshop | Premiere Pro | Thumbnails |
-| Canva | After Effects | Design Gráfico |
-| — | Vegas Pro | Criação Digital |
+**Design**
 
-</div>
+`Photoshop` · `Canva` · `Thumbnails`
+
+**Video**
+
+`Premiere Pro` · `After Effects` · `Vegas Pro`
+
+</p>
 
 ---
 
-## `04` — highlights
+### EXPERIENCE
 
-<div align="center">
+**2026 · Olimpíada Brasileira de Tecnologia**
 
-### 🏆 Olimpíada Brasileira de Tecnologia · 2026
-
-**Finalista — Equipe DevCore**
+Finalista com a **equipe DevCore**.
 
 <br>
 
-### 🏆 Siará Tech · 2025
+**2025 · Siará Tech**
 
-**Participação**
-
-</div>
+Participação no evento de tecnologia.
 
 ---
 
-## `05` — projects
+### PROJECTS
 
-Meus projetos estão disponíveis nos repositórios abaixo.
-
-<div align="center">
-
-[![Repositories](https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brieeldev?tab=repositories)
-
-</div>
-
----
-
-## `06` — currently
-
-```text
-→ Desenvolvendo projetos
-→ Aprimorando minhas habilidades em programação
-→ Explorando novas tecnologias
-→ Criando e experimentando
-```
-
----
-
-<div align="center">
-
-### `brieeldev`
-
-*building, creating & learning.*
+Algumas coisas que venho construindo:
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brieeldev)
+**ALERTA MAP**  
+`Web · Database · Software`
+
+> Projeto desenvolvido para auxiliar no reporte de problemas urbanos
+> e ambientais.
+
+<br>
+
+[ **view all repositories →** ](https://github.com/brieeldev?tab=repositories)
+
+---
+
+### GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=brieeldev&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=8b5cf6" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brieeldev&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af" height="165">
+
+</div>
+
+---
+
+<div align="center">
+
+**BRIELDEV**
+
+`code` · `design` · `create`
 
 </div>
