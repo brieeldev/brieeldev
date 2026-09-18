@@ -29,7 +29,7 @@
 ## 🧰 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,html,css,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,firebase,php,mysql,git,github,vscode" />
 </p>
 
 ---
