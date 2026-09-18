@@ -6,113 +6,72 @@
 
 # BRIELDEV
 
-`code` · `design` · `create`
+`code` &nbsp;·&nbsp; `design` &nbsp;·&nbsp; `create`
 
-**Estudante de Técnico em Informática · Desenvolvedor · Criativo**
+**Estudante de Técnico em Informática &nbsp;·&nbsp; Desenvolvedor &nbsp;·&nbsp; Criativo**
+
+<a href="https://github.com/brieeldev"><img src="https://img.shields.io/badge/GitHub-brieeldev-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://img.shields.io/badge/Cear%C3%A1-Brasil-0d1117?style=flat-square" alt="Ceará, Brasil">
+
+</div>
 
 <br>
 
-<a href="https://github.com/brieeldev">github.com/brieeldev</a>
-
-</div>
-
----
-
-## 01 — PERFIL
+## 01 &nbsp;·&nbsp; Sobre
 
 Sou estudante de **Técnico em Informática** na **EEEP Deputado José Maria Melo**, no Ceará.
 
-Minha experiência passa por **desenvolvimento web, bancos de dados, criação visual e edição audiovisual**. Gosto de aprender construindo e de transformar ideias em coisas funcionais.
+Minha experiência passa por **desenvolvimento web, bancos de dados, criação visual e edição audiovisual**. Gosto de aprender construindo e de transformar ideias em coisas que funcionam.
 
----
+<br>
 
-## 02 — DEVELOPMENT
+## 02 &nbsp;·&nbsp; Stack
 
-### FRONT-END
+<sub><b>FRONT-END</b></sub><br>
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="44" alt="HTML, CSS">
 
-<div>
-<img src="./assets/skills/html.svg" height="28">&nbsp;
-<img src="./assets/skills/css.svg" height="28">
-</div>
+<sub><b>BACK-END</b></sub><br>
+<img src="https://skillicons.dev/icons?i=py,php&theme=dark" height="44" alt="Python, PHP">
 
-### BACK-END
+<sub><b>BANCO DE DADOS</b></sub><br>
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="44" alt="MySQL, Firebase">
 
-<div>
-<img src="./assets/skills/python.svg" height="28">&nbsp;
-<img src="./assets/skills/php.svg" height="28">
-</div>
+<sub><b>WORKFLOW</b></sub><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="44" alt="Git, GitHub, VS Code">
 
-### DATABASE
+<sub><b>GAME DEV</b></sub><br>
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" height="44" alt="Godot">
 
-<div>
-<img src="./assets/skills/mysql.svg" height="28">&nbsp;
-<img src="./assets/skills/firebase.svg" height="28">
-</div>
+<br>
 
-### WORKFLOW
+## 03 &nbsp;·&nbsp; Design & Edição
 
-<div>
-<img src="./assets/skills/git.svg" height="28">&nbsp;
-<img src="./assets/skills/github.svg" height="28">&nbsp;
-<img src="./assets/skills/vscode.svg" height="28">
-</div>
+<sub><b>DESIGN</b></sub><br>
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" height="44" alt="Photoshop">&nbsp;
+<img src="https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC" height="44" alt="Canva">
 
-### GAME DEVELOPMENT
+<sub><b>MOTION / VÍDEO</b></sub><br>
+<img src="https://skillicons.dev/icons?i=ae,pr&theme=dark" height="44" alt="After Effects, Premiere Pro">&nbsp;
+<img src="https://img.shields.io/badge/Vegas_Pro-0d1117?style=for-the-badge&logoColor=white" height="44" alt="Vegas Pro">
 
-<div>
-<img src="./assets/skills/godot.svg" height="28">
-</div>
+<br>
 
----
+## 04 &nbsp;·&nbsp; Experiências
 
-## 03 — DESIGN & EDIÇÃO
+- **2026 &nbsp;·&nbsp; Olimpíada Brasileira de Tecnologia (OBT)**<br>
+  Finalista com a equipe **DevCore**.
 
-### DESIGN
+- **2025 &nbsp;·&nbsp; Siará Tech**<br>
+  Participação em uma experiência ligada a tecnologia e inovação.
 
-<div>
-<img src="./assets/skills/photoshop.svg" height="28">&nbsp;
-<img src="./assets/skills/canva.svg" height="28">
-</div>
-
-### MOTION / VIDEO
-
-<div>
-<img src="./assets/skills/after-effects.svg" height="28">&nbsp;
-<img src="./assets/skills/premiere-pro.svg" height="28">&nbsp;
-<img src="./assets/skills/vegas-pro.svg" height="28">
-</div>
-
----
-
-## 04 — EXPERIÊNCIAS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**OBT · 2026**
-
-Finalista da **Olimpíada Brasileira de Tecnologia 2026** com a equipe **DevCore**.
-
-</td>
-<td width="50%" valign="top">
-
-**SIARÁ TECH · 2025**
-
-Participação no **Siará Tech 2025**, em uma experiência ligada a tecnologia e inovação.
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
 <div align="center">
 
-`build` · `experiment` · `create`
+`build` &nbsp;·&nbsp; `experiment` &nbsp;·&nbsp; `create`
 
-<br><br>
-
-<sub>BRIELDEV · Ceará, Brazil</sub>
+<sub>BRIELDEV &nbsp;·&nbsp; Ceará, Brasil</sub>
 
 </div>
