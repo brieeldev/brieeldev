@@ -9,18 +9,10 @@
 <br>
 
 <a href="https://github.com/brieeldev">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
-
-<br>
 
 ---
 
@@ -44,35 +36,26 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 <br>
 
-<kbd>PYTHON</kbd>
-&nbsp;&nbsp;
-<kbd>PHP</kbd>
-&nbsp;&nbsp;
-<kbd>HTML</kbd>
-&nbsp;&nbsp;
-<kbd>CSS</kbd>
+<img src="./assets/skills/python.svg" height="38">
+<img src="./assets/skills/php.svg" height="38">
+<img src="./assets/skills/html.svg" height="38">
+<img src="./assets/skills/css.svg" height="38">
 
 <br><br>
 
-<kbd>MYSQL</kbd>
-&nbsp;&nbsp;
-<kbd>FIREBASE</kbd>
-&nbsp;&nbsp;
-<kbd>GIT</kbd>
-&nbsp;&nbsp;
-<kbd>GITHUB</kbd>
-&nbsp;&nbsp;
-<kbd>VS CODE</kbd>
+<img src="./assets/skills/mysql.svg" height="38">
+<img src="./assets/skills/firebase.svg" height="38">
+<img src="./assets/skills/git.svg" height="38">
+<img src="./assets/skills/github.svg" height="38">
+<img src="./assets/skills/vscode.svg" height="38">
 
 <br><br>
 
 ### GAME DEVELOPMENT
 
-<kbd>GODOT</kbd>
-
 <br>
 
-<sub>basic concepts</sub>
+<img src="./assets/skills/godot.svg" height="38">
 
 </div>
 
@@ -86,17 +69,14 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 <br>
 
-<kbd>PHOTOSHOP</kbd>
-&nbsp;&nbsp;
-<kbd>AFTER EFFECTS</kbd>
-&nbsp;&nbsp;
-<kbd>PREMIERE PRO</kbd>
+<img src="./assets/skills/photoshop.svg" height="38">
+<img src="./assets/skills/after-effects.svg" height="38">
+<img src="./assets/skills/premiere-pro.svg" height="38">
 
 <br><br>
 
-<kbd>VEGAS PRO</kbd>
-&nbsp;&nbsp;
-<kbd>CANVA</kbd>
+<img src="./assets/skills/vegas-pro.svg" height="38">
+<img src="./assets/skills/canva.svg" height="38">
 
 <br><br>
 
@@ -106,30 +86,7 @@ Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transf
 
 ---
 
-## 04 / FEATURED PROJECT
-
-<div align="center">
-
-# 🗺️ ALERTA MAP
-
-### `technology` · `development` · `location`
-
-<br>
-
-Projeto desenvolvido para explorar soluções envolvendo
-**tecnologia, desenvolvimento e localização**.
-
-<br>
-
-<a href="https://github.com/brieeldev?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 05 / EXPERIENCE
+## 04 / EXPERIENCE
 
 ### 🏆 OLIMPÍADA BRASILEIRA DE TECNOLOGIA · 2026
 
@@ -145,7 +102,7 @@ Participação no **Siará Tech 2025**, experiência envolvendo tecnologia, inov
 
 ---
 
-## 06 / PROJECTS
+## 05 / PROJECTS
 
 <div align="center">
 
@@ -153,12 +110,12 @@ Participação no **Siará Tech 2025**, experiência envolvendo tecnologia, inov
 
 <br>
 
-Meus projetos, experimentos e trabalhos estão disponíveis no GitHub.
+Projetos pessoais, experimentos e trabalhos desenvolvidos ao longo da minha jornada.
 
 <br>
 
 <a href="https://github.com/brieeldev?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -171,9 +128,9 @@ Meus projetos, experimentos e trabalhos estão disponíveis no GitHub.
 
 # BRIELDEV
 
-### `build.` &nbsp; `experiment.` &nbsp; `create.`
+`build.` &nbsp; `experiment.` &nbsp; `create.`
 
-<br>
+<br><br>
 
 <sub>Ceará, Brazil · © BRIELDEV</sub>
 
