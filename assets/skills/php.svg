@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="42" viewBox="0 0 160 42">
-<rect x="1" y="1" width="158" height="40" rx="9" fill="#111116" stroke="#777BB4" stroke-width="1.4"/>
-<g transform="translate(8 11)"><text x="10" y="13" text-anchor="middle" fill="#777BB4" font-family="Arial,sans-serif" font-size="7" font-weight="700">PHP</text></g>
-<text x="90.0" y="26" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14.5" font-weight="600">PHP</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="30" viewBox="0 0 86 30">
+<rect x="1" y="1" width="84" height="28" rx="7" fill="#111116" stroke="#777BB4" stroke-width="1.2"/>
+<text x="16" y="14" text-anchor="middle" fill="#777BB4" font-family="Arial,sans-serif" font-size="17" font-weight="700">PHP</text>
+<text x="62.0" y="21" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">PHP</text>
 </svg>

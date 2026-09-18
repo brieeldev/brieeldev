@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="42" viewBox="0 0 160 42">
-<rect x="1" y="1" width="158" height="40" rx="9" fill="#111116" stroke="#478CBF" stroke-width="1.4"/>
-<g transform="translate(8 11)"><path d="M5 5h10v7H5zM7 5V3h2v2m2 0V3h2v2" fill="none" stroke="#478CBF" stroke-width="1.5"/><circle cx="8" cy="9" r="1" fill="#478CBF"/><circle cx="12" cy="9" r="1" fill="#478CBF"/></g>
-<text x="90.0" y="26" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14.5" font-weight="600">Godot</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="30" viewBox="0 0 102 30">
+<rect x="1" y="1" width="100" height="28" rx="7" fill="#111116" stroke="#478CBF" stroke-width="1.2"/>
+<g transform="translate(0 0.75) scale(1.9)"><path d="M5 5h10v7H5zM7 5V3h2v2m2 0V3h2v2" fill="none" stroke="#478CBF" stroke-width="1.4"/><circle cx="8" cy="9" r="1" fill="#478CBF"/><circle cx="12" cy="9" r="1" fill="#478CBF"/></g>
+<text x="70.0" y="21" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Godot</text>
 </svg>

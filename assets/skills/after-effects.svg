@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="189" height="42" viewBox="0 0 189 42">
-<rect x="1" y="1" width="187" height="40" rx="9" fill="#111116" stroke="#9999FF" stroke-width="1.4"/>
-<g transform="translate(8 11)"><text x="10" y="13" text-anchor="middle" fill="#9999FF" font-family="Arial,sans-serif" font-size="10" font-weight="700">Ae</text></g>
-<text x="104.5" y="26" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14.5" font-weight="600">After Effects</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="30" viewBox="0 0 166 30">
+<rect x="1" y="1" width="164" height="28" rx="7" fill="#111116" stroke="#9999FF" stroke-width="1.2"/>
+<text x="16" y="12" text-anchor="middle" fill="#9999FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">Ae</text>
+<text x="102.0" y="21" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">After Effects</text>
 </svg>
