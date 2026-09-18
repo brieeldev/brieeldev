@@ -26,11 +26,13 @@
 
 ## 01 / ABOUT
 
-> **Transformando ideias em código, interfaces e experiências digitais.**
+> **Transformando ideias em código, design e experiências digitais.**
 
 Sou estudante de **Técnico em Informática** na **EEEP Deputado José Maria Melo**, no Ceará.
 
-Tenho conhecimentos em **desenvolvimento web, bancos de dados, criação visual e edição audiovisual**. Gosto de explorar diferentes áreas da tecnologia e transformar ideias em projetos reais.
+Tenho conhecimentos em **desenvolvimento web, bancos de dados, criação visual e edição audiovisual**.
+
+Gosto de explorar diferentes áreas da tecnologia, aprender na prática e transformar ideias em projetos reais.
 
 ---
 
@@ -38,27 +40,41 @@ Tenho conhecimentos em **desenvolvimento web, bancos de dados, criação visual 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,html,css,mysql,firebase,git,github,vscode" />
-
-</div>
+### LANGUAGES & TECHNOLOGIES
 
 <br>
 
-**DESENVOLVIMENTO**
+<kbd>PYTHON</kbd>
+&nbsp;&nbsp;
+<kbd>PHP</kbd>
+&nbsp;&nbsp;
+<kbd>HTML</kbd>
+&nbsp;&nbsp;
+<kbd>CSS</kbd>
 
-`Python` · `PHP` · `HTML` · `CSS`
+<br><br>
 
-**BANCO DE DADOS**
+<kbd>MYSQL</kbd>
+&nbsp;&nbsp;
+<kbd>FIREBASE</kbd>
+&nbsp;&nbsp;
+<kbd>GIT</kbd>
+&nbsp;&nbsp;
+<kbd>GITHUB</kbd>
+&nbsp;&nbsp;
+<kbd>VS CODE</kbd>
 
-`MySQL` · `MySQL Workbench` · `Firebase`
+<br><br>
 
-**FERRAMENTAS**
+### GAME DEVELOPMENT
 
-`Git` · `GitHub` · `VS Code`
+<kbd>GODOT</kbd>
 
-**GAME DEVELOPMENT**
+<br>
 
-`Godot` — conhecimentos básicos
+<sub>basic concepts</sub>
+
+</div>
 
 ---
 
@@ -66,18 +82,99 @@ Tenho conhecimentos em **desenvolvimento web, bancos de dados, criação visual 
 
 <div align="center">
 
-### CODE IS ONLY ONE SIDE OF WHAT I DO.
+### DESIGN & EDITING
+
+<br>
+
+<kbd>PHOTOSHOP</kbd>
+&nbsp;&nbsp;
+<kbd>AFTER EFFECTS</kbd>
+&nbsp;&nbsp;
+<kbd>PREMIERE PRO</kbd>
+
+<br><br>
+
+<kbd>VEGAS PRO</kbd>
+&nbsp;&nbsp;
+<kbd>CANVA</kbd>
+
+<br><br>
+
+`VIDEO EDITING` · `THUMBNAILS` · `DESIGN`
 
 </div>
 
-Também trabalho com criação e edição de conteúdo visual.
+---
 
-```text
-DESIGN
-Photoshop · Canva
+## 04 / FEATURED PROJECT
 
-MOTION / VIDEO
-After Effects · Premiere Pro · Vegas Pro
+<div align="center">
 
-CREATIVE
-Edição de vídeo · Thumbnails · Design
+# 🗺️ ALERTA MAP
+
+### `technology` · `development` · `location`
+
+<br>
+
+Projeto desenvolvido para explorar soluções envolvendo
+**tecnologia, desenvolvimento e localização**.
+
+<br>
+
+<a href="https://github.com/brieeldev?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 05 / EXPERIENCE
+
+### 🏆 OLIMPÍADA BRASILEIRA DE TECNOLOGIA · 2026
+
+**Finalista — Equipe DevCore**
+
+Participação na **Olimpíada Brasileira de Tecnologia 2026** como integrante da equipe **DevCore**.
+
+<br>
+
+### ⚡ SIARÁ TECH · 2025
+
+Participação no **Siará Tech 2025**, experiência envolvendo tecnologia, inovação e desenvolvimento de projetos.
+
+---
+
+## 06 / PROJECTS
+
+<div align="center">
+
+### THINGS I'VE BUILT
+
+<br>
+
+Meus projetos, experimentos e trabalhos estão disponíveis no GitHub.
+
+<br>
+
+<a href="https://github.com/brieeldev?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+# BRIELDEV
+
+### `build.` &nbsp; `experiment.` &nbsp; `create.`
+
+<br>
+
+<sub>Ceará, Brazil · © BRIELDEV</sub>
+
+</div>
