@@ -31,36 +31,36 @@ Minha experiência passa por **desenvolvimento web, bancos de dados, criação v
 ### FRONT-END
 
 <div>
-<img src="./assets/skills/html.svg" height="42">&nbsp;
-<img src="./assets/skills/css.svg" height="42">
+<img src="./assets/skills/html.svg" height="28">&nbsp;
+<img src="./assets/skills/css.svg" height="28">
 </div>
 
 ### BACK-END
 
 <div>
-<img src="./assets/skills/python.svg" height="42">&nbsp;
-<img src="./assets/skills/php.svg" height="42">
+<img src="./assets/skills/python.svg" height="28">&nbsp;
+<img src="./assets/skills/php.svg" height="28">
 </div>
 
 ### DATABASE
 
 <div>
-<img src="./assets/skills/mysql.svg" height="42">&nbsp;
-<img src="./assets/skills/firebase.svg" height="42">
+<img src="./assets/skills/mysql.svg" height="28">&nbsp;
+<img src="./assets/skills/firebase.svg" height="28">
 </div>
 
 ### WORKFLOW
 
 <div>
-<img src="./assets/skills/git.svg" height="42">&nbsp;
-<img src="./assets/skills/github.svg" height="42">&nbsp;
-<img src="./assets/skills/vscode.svg" height="42">
+<img src="./assets/skills/git.svg" height="28">&nbsp;
+<img src="./assets/skills/github.svg" height="28">&nbsp;
+<img src="./assets/skills/vscode.svg" height="28">
 </div>
 
 ### GAME DEVELOPMENT
 
 <div>
-<img src="./assets/skills/godot.svg" height="42">
+<img src="./assets/skills/godot.svg" height="28">
 </div>
 
 ---
@@ -70,16 +70,16 @@ Minha experiência passa por **desenvolvimento web, bancos de dados, criação v
 ### DESIGN
 
 <div>
-<img src="./assets/skills/photoshop.svg" height="42">&nbsp;
-<img src="./assets/skills/canva.svg" height="42">
+<img src="./assets/skills/photoshop.svg" height="28">&nbsp;
+<img src="./assets/skills/canva.svg" height="28">
 </div>
 
 ### MOTION / VIDEO
 
 <div>
-<img src="./assets/skills/after-effects.svg" height="42">&nbsp;
-<img src="./assets/skills/premiere-pro.svg" height="42">&nbsp;
-<img src="./assets/skills/vegas-pro.svg" height="42">
+<img src="./assets/skills/after-effects.svg" height="28">&nbsp;
+<img src="./assets/skills/premiere-pro.svg" height="28">&nbsp;
+<img src="./assets/skills/vegas-pro.svg" height="28">
 </div>
 
 ---
