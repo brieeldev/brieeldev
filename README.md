@@ -1,72 +1,127 @@
-<h1 align="center">Gabriel</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Estudante de Informática • Programação • Desenvolvimento de Software</strong>
-</p>
+# Gabriel
 
-<p align="center">
-  <a href="https://github.com/brieeldev">
-    <img src="https://img.shields.io/badge/GitHub-brieeldev-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+**Student · Developer · Creative**
+
+[![GitHub](https://img.shields.io/badge/@brieeldev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brieeldev)
+
+</div>
+
+<br>
 
 ---
 
-## 👨‍💻 Sobre mim
+## `01` — about
 
-🎓 Estudante do curso Técnico em Informática na EEEP Deputado José Maria Melo.
+> Estudante de Informática interessado em **desenvolvimento de software,
+> tecnologia e criação digital**.
 
-💻 Tenho interesse em programação, desenvolvimento de software e tecnologia.
+Atualmente curso Técnico em Informática na **EEEP Deputado José Maria Melo**,
+onde venho desenvolvendo projetos e construindo minha experiência em programação.
 
-🚀 Finalista da Olimpíada Brasileira de Tecnologia (OBT) 2026 com a equipe **DevCore**.
+Além do desenvolvimento, também trabalho com **design, edição de vídeo,
+thumbnails e criação de conteúdo digital**.
 
-🛠️ Gosto de aprender através da criação de projetos e da resolução de problemas.
-
+```text
 📍 Ceará, Brasil
+🎓 Técnico em Informática
+💻 Desenvolvimento de Software
+🎨 Design & Conteúdo
+```
 
 ---
 
-## 🧰 Tecnologias
+## `02` — development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,python,firebase,php,mysql,git,github,vscode" />
-</p>
+<div align="center">
 
----
+### Languages & Web
 
-## 📂 Projetos
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
 
-### 🗺️ Alerta Map
+### Database & Tools
 
-Projeto desenvolvido com a equipe DevCore, voltado ao reporte de problemas urbanos e ambientais.
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
-### 💻 Projetos acadêmicos
+### Game Development
 
-Projetos desenvolvidos durante minha formação técnica em Informática, envolvendo programação, desenvolvimento web e banco de dados.
+[![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
 
----
+<sub>Conhecimentos básicos em desenvolvimento de jogos com Godot.</sub>
 
-## 🏆 Conquistas
-
-🏅 **Finalista — Olimpíada Brasileira de Tecnologia 2026**
-
-👥 **Equipe DevCore**
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brieeldev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brieeldev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 📫 Contato
+## `03` — creative
 
-<p>
-  <a href="https://github.com/brieeldev">
-    <img src="https://img.shields.io/badge/GitHub-brieeldev-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+<div align="center">
+
+| Design | Video | Content |
+| :---: | :---: | :---: |
+| Photoshop | Premiere Pro | Thumbnails |
+| Canva | After Effects | Design Gráfico |
+| — | Vegas Pro | Criação Digital |
+
+</div>
+
+---
+
+## `04` — highlights
+
+<div align="center">
+
+### 🏆 Olimpíada Brasileira de Tecnologia · 2026
+
+**Finalista — Equipe DevCore**
+
+<br>
+
+### 🏆 Siará Tech · 2025
+
+**Participação**
+
+</div>
+
+---
+
+## `05` — projects
+
+Meus projetos estão disponíveis nos repositórios abaixo.
+
+<div align="center">
+
+[![Repositories](https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brieeldev?tab=repositories)
+
+</div>
+
+---
+
+## `06` — currently
+
+```text
+→ Desenvolvendo projetos
+→ Aprimorando minhas habilidades em programação
+→ Explorando novas tecnologias
+→ Criando e experimentando
+```
+
+---
+
+<div align="center">
+
+### `brieeldev`
+
+*building, creating & learning.*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brieeldev)
+
+</div>
