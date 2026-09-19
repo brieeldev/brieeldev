@@ -116,7 +116,7 @@
 <p align="center">
   <sub><b>COMPETITION</b> &nbsp;·&nbsp; DevCore team</sub><br>
   <b>Silver medalist</b> in the 2026 edition with <b>Alerta Map</b> —<br>a platform for reporting urban and natural disasters,<br>connecting the community directly to the responsible agencies.<br><br>
-  <img src="./assets/medalha-prata.svg" alt="Finalista">
+  <img src="https://img.shields.io/badge/MEDALHISTA-8957e5?style=for-the-badge" alt="Medalhista">
 </p>
 
 <p align="center"><img src="./assets/timeline-line.svg" height="56" alt=""></p>
