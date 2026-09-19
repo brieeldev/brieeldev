@@ -13,7 +13,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/IT_TECHNICIAN-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" alt="IT Technician">
-<img src="https://img.shields.io/badge/OBT_2026-FINALIST-0d1117?style=for-the-badge&labelColor=0d1117&color=8957e5" alt="OBT 2026 Finalist">
 <img src="https://img.shields.io/badge/CEAR%C3%81-BRAZIL-0d1117?style=for-the-badge&labelColor=0d1117&color=30363d" alt="Ceará, Brazil">
 
 </div>
