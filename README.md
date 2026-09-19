@@ -38,15 +38,7 @@
 <br>
 
 <p align="center">
-  I'm an <b>IT Technician</b> student with a <b>versatile, multidisciplinary profile</b>. I develop <b>websites and systems</b>, work with <b>databases</b>, and also create <b>games</b>, <b>visual design</b> and <b>video editing</b>. This mix lets me <b>bridge code and design</b> and approach every project from more than one angle. I know a bit of everything — and that's exactly what keeps me curious to keep learning. I learn by building, and I enjoy turning ideas into things that actually work.
-  <br><br>
-  <b>Education</b> &nbsp;·&nbsp; IT Technician — EEEP Deputado José Maria Melo, Ceará
-  <br><br>
-  <b>Profile</b> &nbsp;·&nbsp; Versatile and multidisciplinary
-  <br><br>
-  <b>Fields</b> &nbsp;·&nbsp; Web, Data, Games, Design and Video
-  <br><br>
-  <b>Location</b> &nbsp;·&nbsp; Ceará, Brazil
+  Sou <b>Gabriel</b>, estudante de <b>Técnico em Informática</b> e desenvolvedor com perfil versátil e multidisciplinar, focado na construção de <b>sistemas web</b> bem estruturados. Atuo em toda a pilha — do design de <b>interfaces</b> intuitivas aos <b>serviços de backend</b> e <b>camadas de dados</b> — buscando arquitetura limpa, código organizado e soluções que funcionem de ponta a ponta. Tenho também noções de <b>programação de jogos</b> com <b>Godot</b>, o que amplia minha visão de lógica e criação. Me importo com <b>desempenho</b>, <b>confiabilidade</b> e <b>manutenibilidade</b> no que construo e acredito que se aprende praticando: transformando ideias em coisas que funcionam.
 </p>
 
 <br>
