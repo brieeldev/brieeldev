@@ -102,10 +102,14 @@
 </p>
 <h3 align="center">IT Technician</h3>
 <p align="center">
-  <sub><b>EDUCATION</b></sub><br>
-  <sub>EEEP Deputado José Maria Melo, Ceará</sub><br>
-  Ongoing technical degree.
+  <sub><b>EDUCATION</b></sub>
 </p>
+<p align="center">
+  <sub>EEEP Deputado José Maria Melo, Ceará</sub>
+</p>
+<p align="center">
+  <sub>Ongoing technical degree.</sub>
+
 
 <p align="center"><img src="./assets/timeline-line.svg" height="56" alt=""></p>
 
@@ -114,10 +118,14 @@
 </p>
 <h3 align="center">Brazilian Technology Olympiad (OBT)</h3>
 <p align="center">
-  <sub><b>COMPETITION</b> &nbsp;·&nbsp; DevCore team</sub><br>
-  <b>Silver medalist</b> in the 2026 edition with <b>Alerta Map</b> —<br>a platform for reporting urban and natural disasters,<br>connecting the community directly to the responsible agencies.<br><br>
-  <img src="https://img.shields.io/badge/MEDALHISTA-8957e5?style=for-the-badge" alt="Medalhista">
+  <sub><b>COMPETITION</b> · DevCore team</sub>
 </p>
+<p align="center">
+  <b>Silver medalist</b> in the 2026 edition with <b>Alerta Map</b> — a platform for reporting urban and natural disasters, connecting the community directly to the responsible agencies.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MEDALHISTA-8957e5?style=for-the-badge" alt="Medalhista">
+
 
 <p align="center"><img src="./assets/timeline-line.svg" height="56" alt=""></p>
 
@@ -126,11 +134,17 @@
 </p>
 <h3 align="center">Siará Tech</h3>
 <p align="center">
-  <sub><b>EVENT</b></sub><br>
-  <sub>Ceará, Brazil</sub><br>
-  Presented <b>JuliaIA</b> — an AI psychologist assistant<br>that combines technology and empathy<br>to deliver accessible, humanized support.<br><br>
+  <sub><b>EVENT</b></sub>
+</p>
+<p align="center">
+  <sub>Ceará, Brazil</sub>
+</p>
+<p align="center">
+  Presented <b>JuliaIA</b> — an AI psychologist assistant that combines technology and empathy to deliver accessible, humanized support.
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/PARTICIPANTE-30363d?style=for-the-badge" alt="Participante">
-</p><br>
+<br>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
@@ -150,6 +164,6 @@
 
 <div align="center">
 
-<sub>BRIELDEV &nbsp;·&nbsp; code &nbsp;·&nbsp; design &nbsp;·&nbsp; create</sub>
+<sub>BRIELDEV  ·  code  ·  design  ·  create</sub>
 
 </div>
