@@ -91,7 +91,7 @@
 
 <br>
 
-<img src="./assets/divider-conquistas.svg" width="100%" alt="">
+<img src="./assets/divider.svg" width="100%" alt="">
 
 <br>
 
