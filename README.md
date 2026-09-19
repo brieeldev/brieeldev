@@ -115,8 +115,7 @@
 <h3 align="center">Brazilian Technology Olympiad (OBT)</h3>
 <p align="center">
   <sub><b>COMPETITION</b> &nbsp;·&nbsp; DevCore team</sub><br>
-  Finalist in the 2026 edition.<br>
-  Representing team <b>DevCore</b>.<br><br>
+  Finalist in the 2026 edition with <b>Alerta Map</b> —<br>a platform for reporting urban and natural disasters<br>and connecting communities to faster responses.<br><br>
   <img src="https://img.shields.io/badge/FINALISTA-8957e5?style=for-the-badge" alt="Finalista">
 </p>
 
@@ -129,7 +128,7 @@
 <p align="center">
   <sub><b>EVENT</b></sub><br>
   <sub>Ceará, Brazil</sub><br>
-  Participation in the 2025 edition, in a hands-on experience<br>focused on technology and innovation.<br><br>
+  Presented <b>JuliaIA</b> — an AI psychologist assistant<br>that combines technology and empathy<br>to deliver accessible, humanized support.<br><br>
   <img src="https://img.shields.io/badge/PARTICIPANTE-30363d?style=for-the-badge" alt="Participante">
 </p><br>
 
