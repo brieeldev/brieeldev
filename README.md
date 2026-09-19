@@ -38,7 +38,67 @@
 <br>
 
 <p align="center">
-  Hi! I'm <b>Gabriel</b>, an <b>IT Technician</b> student and developer whose curiosity never turns off. I build <b>web systems</b> end to end — from pixel-perfect <b>interfaces</b> to database-optimized <b>backend services</b>— always chasing clean architecture, organized code, performance and reliability. Off the web, I sharpen logic and creativity with <b>game programming</b> in <b>Godot</b>. My motto: learn by doing — turn ideas into things that actually work.
+  I'm <b>Gabriel</b>, an <b>IT Technician</b> student and developer with a versatile, multidisciplinary profile, focused on building well-structured <b>web systems</b>. I work across the whole stack — from intuitive <b>interface</b> design to <b>backend services</b> and <b>data layers</b> — seeking clean architecture, organized code and end-to-end solutions. I also have <b>game programming</b> notions with <b>Godot</b>, which broadens my logic and creativity. I care about <b>performance</b>, <b>reliability</b> and <b>maintainability</b> in what I build, and I believe you learn by doing: turning ideas into things that actually work.
+
+<br>
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+<br>
+
+<h2 align="center">STACK</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <sub><b>FRONT-END</b></sub><br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub><b>BACK-END</b></sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    </td>
+    <td align="center" valign="top" width="33%">
+      <sub><b>DATABASE</b></sub><br><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <sub><b>TOOLS</b></sub><br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code">
+      <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
+    </td>
+    <td align="center" valign="top">
+      <sub><b>DESIGN & VIDEO</b></sub><br><br>
+      <img src="https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge" alt="Photoshop">
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge" alt="Canva">
+      <img src="https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge" alt="After Effects">
+      <img src="https://img.shields.io/badge/Premiere_Pro-00005B?style=for-the-badge" alt="Premiere Pro">
+      <img src="https://img.shields.io/badge/Vegas_Pro-2D2D2D?style=for-the-badge" alt="Vegas Pro">
+    </td>
+    <td align="center" valign="top">
+      <sub><b>GAME DEV</b></sub><br><br>
+      <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+<br>
+
+<h2 align="center">EXPERIENCE &amp; ACHIEVEMENTS</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ATUAL-1f6feb?style=for-the-badge" alt="Atual">
 </p>
 <h3 align="center">IT Technician</h3>
 <p align="center">
