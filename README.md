@@ -64,30 +64,6 @@
 
 <br>
 
-<p align="center"><sub><b>COMO EU TRABALHO</b></sub></p>
-
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <sub><b>01</b></sub><br>
-      <b>Aprendo construindo</b><br>
-      <sub>Prefiro colocar a mão na massa:<br>é praticando que as coisas fazem sentido.</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <sub><b>02</b></sub><br>
-      <b>Código + design</b><br>
-      <sub>Unir programação e criação visual<br>me ajuda a olhar por mais de um ângulo.</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <sub><b>03</b></sub><br>
-      <b>Ideias que funcionam</b><br>
-      <sub>Gosto de transformar uma ideia<br>em algo que funciona de verdade.</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <img src="./assets/divider.svg" width="100%" alt="">
 
 <br>
