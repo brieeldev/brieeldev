@@ -121,7 +121,13 @@
   <sub><b>COMPETITION</b> · DevCore team</sub>
 </p>
 <p align="center">
-  <b>Silver medalist</b> in the 2026 edition with <b>Alerta Map</b> — a platform for reporting urban and natural disasters, connecting the community directly to the responsible agencies.
+  <b>Silver medalist</b> in the 2026 edition with <b>Alerta Map</b> —
+</p>
+<p align="center">
+  a platform for reporting urban and natural disasters
+</p>
+<p align="center">
+  connecting the community directly to the responsible agencies.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MEDALHISTA-8957e5?style=for-the-badge" alt="Medalhista">
@@ -140,7 +146,16 @@
   <sub>Ceará, Brazil</sub>
 </p>
 <p align="center">
-  Presented <b>JuliaIA</b> — an AI psychologist assistant that combines technology and empathy to deliver accessible, humanized support.
+  Presented <b>JuliaIA</b>
+</p>
+<p align="center">
+   an AI psychologist assistant
+</p>
+<p align="center">
+   that combines technology and empathy
+</p>
+<p align="center">
+  to deliver accessible, humanized support.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PARTICIPANTE-30363d?style=for-the-badge" alt="Participante">
