@@ -116,7 +116,7 @@
 <p align="center">
     <sub><b>COMPETITION</b> &nbsp;·&nbsp; DevCore team</sub><br>
   <b>Silver medal</b> — top performance in the 2026 edition<br>with <b>Alerta Map</b>, a platform for reporting urban and natural disasters,<br>connecting the community directly to the responsible agencies.<br><br>
-  <img src="./assets/medalha-prata.svg" width="108" height="120" alt="Medalha de prata na OBT 2026">
+  <img src="./assets/medalha-prata.svg" height="30" alt="Medalha de prata na OBT 2026">
 </p>
 
 <p align="center"><img src="./assets/timeline-line.svg" height="56" alt=""></p>
