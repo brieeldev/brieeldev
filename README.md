@@ -40,7 +40,7 @@
 <table width="100%">
   <tr>
     <td valign="top" width="62%">
-      <p>I'm an <b>IT Technician</b> student with a <b>versatile profile</b>, working across <b>web development</b>, <b>databases</b>, <b>games</b>, <b>visual design</b> and <b>media editing</b>. This blend lets me <b>bridge code and design</b>, seeing every project from more than one angle. I know a bit of everything — and that's exactly what keeps me curious to learn more. I learn by building, and I enjoy turning ideas into things that actually work.</p>
+      <p>I'm an <b>IT Technician</b> student with a <b>versatile, multidisciplinary profile</b>. I develop <b>websites and systems</b>, work with <b>databases</b>, and also create <b>games</b>, <b>visual design</b> and <b>video editing</b>. This mix lets me <b>bridge code and design</b> and approach every project from more than one angle. I know a bit of everything — and that's exactly what keeps me curious to keep learning. I learn by building, and I enjoy turning ideas into things that actually work.</p>
     </td>
     <td valign="top" width="38%">
       <sub><b>EDUCATION</b></sub><br>
