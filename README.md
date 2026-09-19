@@ -136,7 +136,7 @@
 <h3 align="center">Brazilian Technology Olympiad (OBT)</h3>
 <p align="center">
   <sub><b>COMPETITION</b> &nbsp;·&nbsp; DevCore team</sub><br>
-  Finalist in the 2026 edition, representing team <b>DevCore</b>.<br><br>
+  <b>Finalist</b> in the 2026 edition, representing team <b>DevCore</b>.<br><br>
   <img src="https://img.shields.io/badge/FINALIST-8957e5?style=flat-square" alt="Finalist">
 </p>
 
@@ -148,7 +148,7 @@
 <h3 align="center">Siará Tech</h3>
 <p align="center">
   <sub><b>EVENT</b> &nbsp;·&nbsp; Ceará</sub><br>
-  Participation in the 2025 edition, in a hands-on experience<br>focused on technology and innovation.<br><br>
+  <b>Participation</b> in the 2025 edition, in a hands-on experience<br>focused on technology and innovation.<br><br>
   <img src="https://img.shields.io/badge/PARTICIPANT-30363d?style=flat-square" alt="Participant">
 </p>
 
