@@ -124,7 +124,7 @@
   <b>Silver medalist</b> in the 2026 edition with <b>Alerta Map</b> —
 </p>
 <p align="center">
-  a platform for reporting urban and natural disasters
+  a platform for reporting urban and natural disasters,
 </p>
 <p align="center">
   connecting the community directly to the responsible agencies.
@@ -146,13 +146,13 @@
   <sub>Ceará, Brazil</sub>
 </p>
 <p align="center">
-  Presented <b>JuliaIA</b>
+  Presented <b>JuliaIA</b> —
 </p>
 <p align="center">
-   an AI psychologist assistant
+  an AI psychologist assistant
 </p>
 <p align="center">
-   that combines technology and empathy
+  that combines technology and empathy
 </p>
 <p align="center">
   to deliver accessible, humanized support.
