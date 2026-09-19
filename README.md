@@ -95,14 +95,15 @@
 
 <br>
 
-<h2 align="center">EXPERIENCE & ACHIEVEMENTS</h2>
+<h2 align="center">EXPERIENCE &amp; ACHIEVEMENTS</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ATUAL-1f6feb?style=for-the-badge" alt="Atual">
 </p>
 <h3 align="center">IT Technician</h3>
 <p align="center">
-  <sub><b>EDUCATION</b> &nbsp;·&nbsp; EEEP Deputado José Maria Melo, Ceará</sub><br>
+  <sub><b>EDUCATION</b></sub><br>
+  <sub>EEEP Deputado José Maria Melo, Ceará</sub><br>
   Ongoing technical degree.
 </p>
 
@@ -114,7 +115,8 @@
 <h3 align="center">Brazilian Technology Olympiad (OBT)</h3>
 <p align="center">
   <sub><b>COMPETITION</b> &nbsp;·&nbsp; DevCore team</sub><br>
-  Finalist in the 2026 edition, representing team <b>DevCore</b>.<br><br>
+  Finalist in the 2026 edition.<br>
+  Representing team <b>DevCore</b>.<br><br>
   <img src="https://img.shields.io/badge/FINALISTA-8957e5?style=for-the-badge" alt="Finalista">
 </p>
 
@@ -125,12 +127,11 @@
 </p>
 <h3 align="center">Siará Tech</h3>
 <p align="center">
-  <sub><b>EVENT</b> &nbsp;·&nbsp; Ceará</sub><br>
+  <sub><b>EVENT</b></sub><br>
+  <sub>Ceará, Brazil</sub><br>
   Participation in the 2025 edition, in a hands-on experience<br>focused on technology and innovation.<br><br>
   <img src="https://img.shields.io/badge/PARTICIPANTE-30363d?style=for-the-badge" alt="Participante">
-</p>
-
-<br>
+</p><br>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
