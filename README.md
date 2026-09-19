@@ -38,8 +38,7 @@
 <br>
 
 <p align="center">
-  Sou <b>Gabriel</b>, estudante de <b>Técnico em Informática</b> e desenvolvedor com perfil versátil e multidisciplinar, focado na construção de <b>sistemas web</b> bem estruturados. Atuo em toda a pilha — do design de <b>interfaces</b> intuitivas aos <b>serviços de backend</b> e <b>camadas de dados</b> — buscando arquitetura limpa, código organizado e soluções que funcionem de ponta a ponta. Tenho também noções de <b>programação de jogos</b> com <b>Godot</b>, o que amplia minha visão de lógica e criação. Me importo com <b>desempenho</b>, <b>confiabilidade</b> e <b>manutenibilidade</b> no que construo e acredito que se aprende praticando: transformando ideias em coisas que funcionam.
-</p>
+  I'm <b>Gabriel</b>, an <b>IT Technician</b> student and developer with a versatile, multidisciplinary profile, focused on building well-structured <b>web systems</b>. I work across the whole stack — from intuitive <b>interface</b> design to <b>backend services</b> and <b>data layers</b> — seeking clean architecture, organized code and end-to-end solutions. I also have <b>game programming</b> notions with <b>Godot</b>, which broadens my logic and creativity. I care about <b>performance</b>, <b>reliability</b> and <b>maintainability</b> in what I build, and I believe you learn by doing: turning ideas into things that actually work.
 
 <br>
 
