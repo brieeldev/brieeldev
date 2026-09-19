@@ -115,7 +115,7 @@
 <h3 align="center">Brazilian Technology Olympiad (OBT)</h3>
 <p align="center">
   <sub><b>COMPETITION</b> &nbsp;·&nbsp; DevCore team</sub><br>
-  Finalist in the 2026 edition with <b>Alerta Map</b> —<br>a platform for reporting urban and natural disasters<br>and connecting communities to faster responses.<br><br>
+  Finalist in the 2026 edition with <b>Alerta Map</b> —<br>a platform for reporting urban and natural disasters,<br>connecting the community directly to the responsible agencies.<br><br>
   <img src="https://img.shields.io/badge/FINALISTA-8957e5?style=for-the-badge" alt="Finalista">
 </p>
 
