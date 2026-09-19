@@ -37,27 +37,17 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="62%">
-      <p>I'm an <b>IT Technician</b> student with a <b>versatile, multidisciplinary profile</b>. I develop <b>websites and systems</b>, work with <b>databases</b>, and also create <b>games</b>, <b>visual design</b> and <b>video editing</b>. This mix lets me <b>bridge code and design</b> and approach every project from more than one angle. I know a bit of everything — and that's exactly what keeps me curious to keep learning. I learn by building, and I enjoy turning ideas into things that actually work.</p>
-    </td>
-    <td valign="top" width="38%">
-      <sub><b>EDUCATION</b></sub><br>
-      IT Technician<br>
-      <sub>EEEP Deputado José Maria Melo</sub>
-      <br><br>
-      <sub><b>PROFILE</b></sub><br>
-      Versatile and multidisciplinary
-      <br><br>
-      <sub><b>FIELDS</b></sub><br>
-      Web · Data · Games<br>Design · Video
-      <br><br>
-      <sub><b>LOCATION</b></sub><br>
-      Ceará, Brazil
-    </td>
-  </tr>
-</table>
+<p align="center">
+  I'm an <b>IT Technician</b> student with a <b>versatile, multidisciplinary profile</b>. I develop <b>websites and systems</b>, work with <b>databases</b>, and also create <b>games</b>, <b>visual design</b> and <b>video editing</b>. This mix lets me <b>bridge code and design</b> and approach every project from more than one angle. I know a bit of everything — and that's exactly what keeps me curious to keep learning. I learn by building, and I enjoy turning ideas into things that actually work.
+  <br><br>
+  <b>Education</b> &nbsp;·&nbsp; IT Technician — EEEP Deputado José Maria Melo, Ceará
+  <br><br>
+  <b>Profile</b> &nbsp;·&nbsp; Versatile and multidisciplinary
+  <br><br>
+  <b>Fields</b> &nbsp;·&nbsp; Web, Data, Games, Design and Video
+  <br><br>
+  <b>Location</b> &nbsp;·&nbsp; Ceará, Brazil
+</p>
 
 <br>
 
